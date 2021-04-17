@@ -5,9 +5,9 @@ description: |
   reading what we have to say!
 author:
   - name: Rikard Wahlström
-    url: https://example.com/norajones
-    #affiliation: Spacely Sprockets
-    #affiliation_url: https://example.com/spacelysprokets
+    url: https://thirsty-montalcini-e8c009.netlify.app/
+    affiliation: Spacely Sprockets
+    affiliation_url: https://example.com/spacelysprokets
 date: 04-17-2021
 output:
   distill::distill_article:

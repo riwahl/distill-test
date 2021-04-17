@@ -1,22 +1,5 @@
 [
   {
-    "path": "posts/welcome/",
-    "title": "Welcome to Syntopical Reckoning",
-    "description": "Welcome to our new blog, Syntopical Reckoning. We hope you enjoy \nreading what we have to say!",
-    "author": [
-      {
-        "name": "Rikard Wahlström",
-        "url": "https://example.com/norajones"
-      }
-    ],
-    "date": "2021-04-17",
-    "categories": [],
-    "contents": "\r\n\r\n\r\n\r\n",
-    "preview": {},
-    "last_modified": "2021-04-17T19:23:24+02:00",
-    "input_file": "welcome.utf8.md"
-  },
-  {
     "path": "posts/2021-04-17-first-post/",
     "title": "First post",
     "description": "A short description of the post.",
@@ -32,5 +15,22 @@
     "preview": {},
     "last_modified": "2021-04-17T19:27:01+02:00",
     "input_file": "first-post.utf8.md"
+  },
+  {
+    "path": "posts/welcome/",
+    "title": "Welcome to Syntopical Reckoning",
+    "description": "Welcome to our new blog, Syntopical Reckoning. We hope you enjoy \nreading what we have to say!",
+    "author": [
+      {
+        "name": "Rikard Wahlström",
+        "url": "https://thirsty-montalcini-e8c009.netlify.app/"
+      }
+    ],
+    "date": "2021-04-17",
+    "categories": [],
+    "contents": "\r\n\r\n\r\n\r\n",
+    "preview": {},
+    "last_modified": "2021-04-17T20:15:07+02:00",
+    "input_file": "welcome.utf8.md"
   }
 ]
