@@ -13,11 +13,15 @@ output:
 
 
 ```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE)
+knitr::opts_chunk$set(echo = TRUE)
 ```
 
-Distill is a publication format for scientific and technical writing, native to the web.
+This is a test chunk of code
 
-Learn more about using Distill at <https://rstudio.github.io/distill>.
+```{r}
 
+#data <- read_csv
 
+x <- 23
+
+```
