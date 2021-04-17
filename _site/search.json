@@ -5,15 +5,15 @@
       "title": "About this blog",
       "description": "Some additional details about the blog",
       "author": [],
-      "contents": "\r\n\r\n\r\n\r\n",
-      "last_modified": "2021-04-17T19:21:29+02:00"
+      "contents": "\r\n[more information coming soon]\r\n\r\n\r\n\r\n",
+      "last_modified": "2021-04-17T20:16:19+02:00"
     },
     {
       "path": "index.html",
-      "title": "Demo Distill",
+      "title": "Syntopical Reckoning",
       "author": [],
       "contents": "\r\n\r\n\r\n\r\n",
-      "last_modified": "2021-04-17T19:21:34+02:00"
+      "last_modified": "2021-04-17T20:15:07+02:00"
     }
   ],
   "collections": ["posts/posts.json"]
