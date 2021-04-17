@@ -15,5 +15,22 @@
     "preview": {},
     "last_modified": "2021-04-17T19:23:24+02:00",
     "input_file": "welcome.utf8.md"
+  },
+  {
+    "path": "posts/2021-04-17-first-post/",
+    "title": "First post",
+    "description": "A short description of the post.",
+    "author": [
+      {
+        "name": "Rikard WahlstrÃ¶m",
+        "url": "https://example.com/norajones"
+      }
+    ],
+    "date": "2021-04-17",
+    "categories": [],
+    "contents": "\r\nDistill is a publication format for scientific and technical writing, native to the web.\r\nLearn more about using Distill at https://rstudio.github.io/distill.\r\n\r\n\r\n\r\n",
+    "preview": {},
+    "last_modified": "2021-04-17T19:27:01+02:00",
+    "input_file": "first-post.utf8.md"
   }
 ]
