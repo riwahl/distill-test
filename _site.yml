@@ -1,7 +1,7 @@
 name: "distill-test"
-title: "Demo Distill"
+title: "Syntopical Reckoning"
 description: |
-  Demo Distill
+  Syntopical Reckoning
 output_dir: "_site"
 navbar:
   right:
