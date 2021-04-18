@@ -3,7 +3,7 @@ title: "First post"
 description: |
   A short description of the post.
 author:
-  - name: Rikard WahlstrÃ¶m
+  - name: Rikard Wahlström
     url: https://example.com/norajones
 date: 04-17-2021
 output:
