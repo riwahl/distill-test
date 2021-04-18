@@ -9,11 +9,19 @@
       "last_modified": "2021-04-17T20:16:19+02:00"
     },
     {
+      "path": "contact.html",
+      "title": "Contact",
+      "description": "Contact me",
+      "author": [],
+      "contents": "\r\n\r\n\r\n\r\n",
+      "last_modified": "2021-04-18T07:17:33+02:00"
+    },
+    {
       "path": "index.html",
       "title": "Syntopical Reckoning",
       "author": [],
       "contents": "\r\n\r\n\r\n\r\n",
-      "last_modified": "2021-04-17T20:15:07+02:00"
+      "last_modified": "2021-04-18T07:13:45+02:00"
     }
   ],
   "collections": ["posts/posts.json"]
