@@ -6,7 +6,7 @@ output_dir: "_site"
 navbar:
   logo:
 #    image: images/i_like_turtles_bis.png
-#    href: https://milesmcbain.xyz
+    href: https://thirsty-montalcini-e8c009.netlify.app/
   right:
     - text: "Home"
       href: index.html
@@ -19,6 +19,6 @@ output:
     css: mmstyle.css
     includes:
       in_header: utterances.html
-base_url: https://milesmcbain.com
+base_url: https://thirsty-montalcini-e8c009.netlify.app/
 repository_url: https://github.com/riwahl/distill-test
 #favicon: images/favicon.ico
