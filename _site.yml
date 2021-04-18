@@ -18,7 +18,7 @@ output:
   distill::distill_article:
     css: mmstyle.css
     includes:
-      in_header: utterances.html
+      #in_header: utterances.html
 base_url: https://thirsty-montalcini-e8c009.netlify.app/
 repository_url: https://github.com/riwahl/distill-test
 #favicon: images/favicon.ico
