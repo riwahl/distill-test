@@ -21,3 +21,10 @@ Distill is a publication format for scientific and technical writing, native to 
 Learn more about using Distill at <https://rstudio.github.io/distill>.
 
 
+The lifespan (denoted as $t$) of 100 lamps has been measured. Each lamp has been used with an intensity (denoted as $s$) from 0 to 1, where 0 is turned off and 1 is maximum capacity. 
+
+It is known that lamps of the type relevant here has a lifespan $t$ that is exponentially distributed and where the expected value is 
+
+$$\mu(s) = \frac{\beta}{s}, \quad s > 0,$$
+
+where $\beta > 0$ is an unknown parameter and $s$ equals the intensity with which the lamp has been used. 

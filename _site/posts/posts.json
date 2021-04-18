@@ -1,22 +1,5 @@
 [
   {
-    "path": "posts/2021-04-17-first-post/",
-    "title": "First post",
-    "description": "A short description of the post.",
-    "author": [
-      {
-        "name": "Rikard WahlstrÃ¶m",
-        "url": "https://example.com/norajones"
-      }
-    ],
-    "date": "2021-04-17",
-    "categories": [],
-    "contents": "\r\nDistill is a publication format for scientific and technical writing, native to the web.\r\nLearn more about using Distill at https://rstudio.github.io/distill.\r\n\r\n\r\n\r\n",
-    "preview": {},
-    "last_modified": "2021-04-17T19:27:01+02:00",
-    "input_file": {}
-  },
-  {
     "path": "posts/2021-04-17-second-post/",
     "title": "Second post",
     "description": "A short description of the post.",
@@ -49,5 +32,22 @@
     "preview": {},
     "last_modified": "2021-04-17T20:36:19+02:00",
     "input_file": "welcome.utf8.md"
+  },
+  {
+    "path": "posts/2021-04-17-first-post/",
+    "title": "First post",
+    "description": "A short description of the post.",
+    "author": [
+      {
+        "name": "Rikard WahlstrÃ¶m",
+        "url": "https://example.com/norajones"
+      }
+    ],
+    "date": "2021-04-17",
+    "categories": [],
+    "contents": "\r\nDistill is a publication format for scientific and technical writing, native to the web.\r\nLearn more about using Distill at https://rstudio.github.io/distill.\r\nThe lifespan (denoted as \\(t\\)) of 100 lamps has been measured. Each lamp has been used with an intensity (denoted as \\(s\\)) from 0 to 1, where 0 is turned off and 1 is maximum capacity.\r\nIt is known that lamps of the type relevant here has a lifespan \\(t\\) that is exponentially distributed and where the expected value is\r\n\\[\\mu(s) = \\frac{\\beta}{s}, \\quad s > 0,\\]\r\nwhere \\(\\beta > 0\\) is an unknown parameter and \\(s\\) equals the intensity with which the lamp has been used.\r\n\r\n\r\n\r\n",
+    "preview": {},
+    "last_modified": "2021-04-17T20:40:23+02:00",
+    "input_file": "first-post.utf8.md"
   }
 ]
