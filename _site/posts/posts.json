@@ -1,22 +1,5 @@
 [
   {
-    "path": "posts/2021-04-17-second-post/",
-    "title": "Second post",
-    "description": "A short description of the post.",
-    "author": [
-      {
-        "name": "Rikard WahlstrÃ¶m",
-        "url": "https://example.com/norajones"
-      }
-    ],
-    "date": "2021-04-17",
-    "categories": [],
-    "contents": "\r\nThis is a test chunk of code\r\n\r\n\r\n#data <- read_csv\r\n\r\nx <- 23\r\n\r\n\r\n\r\n\r\n\r\n\r\n",
-    "preview": {},
-    "last_modified": "2021-04-17T20:35:21+02:00",
-    "input_file": "second-post.utf8.md"
-  },
-  {
     "path": "posts/2021-04-17-first-post/",
     "title": "First post",
     "description": "A short description of the post.",
@@ -49,5 +32,22 @@
     "preview": {},
     "last_modified": "2021-04-18T07:08:03+02:00",
     "input_file": "welcome.utf8.md"
+  },
+  {
+    "path": "posts/2021-04-17-second-post/",
+    "title": "Second post",
+    "description": "A short description of the post.",
+    "author": [
+      {
+        "name": "Rikard Wahlström",
+        "url": "https://example.com/norajones"
+      }
+    ],
+    "date": "2021-04-17",
+    "categories": [],
+    "contents": "\r\nThis is a test chunk of code\r\n\r\n\r\n#data <- read_csv\r\n\r\nx <- 23\r\n\r\n\r\n\r\n\r\n\r\n\r\n",
+    "preview": {},
+    "last_modified": "2021-04-18T07:09:10+02:00",
+    "input_file": "second-post.utf8.md"
   }
 ]

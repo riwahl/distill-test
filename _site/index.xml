@@ -9,14 +9,6 @@
     <generator>Distill</generator>
     <lastBuildDate>Sat, 17 Apr 2021 00:00:00 +0000</lastBuildDate>
     <item>
-      <title>Second post</title>
-      <dc:creator>Rikard WahlstrÃ¶m</dc:creator>
-      <link>https://thirsty-montalcini-e8c009.netlify.app/posts/2021-04-17-second-post</link>
-      <description>A short description of the post.</description>
-      <guid>https://thirsty-montalcini-e8c009.netlify.app/posts/2021-04-17-second-post</guid>
-      <pubDate>Sat, 17 Apr 2021 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>First post</title>
       <dc:creator>Rikard WahlstrÃ¶m</dc:creator>
       <link>https://thirsty-montalcini-e8c009.netlify.app/posts/2021-04-17-first-post</link>
@@ -31,6 +23,14 @@
       <description>Welcome to our new blog, Syntopical Reckoning. We hope you enjoy 
 reading what we have to say!</description>
       <guid>https://thirsty-montalcini-e8c009.netlify.app/posts/welcome</guid>
+      <pubDate>Sat, 17 Apr 2021 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Second post</title>
+      <dc:creator>Rikard Wahlström</dc:creator>
+      <link>https://thirsty-montalcini-e8c009.netlify.app/posts/2021-04-17-second-post</link>
+      <description>A short description of the post.</description>
+      <guid>https://thirsty-montalcini-e8c009.netlify.app/posts/2021-04-17-second-post</guid>
       <pubDate>Fri, 16 Apr 2021 00:00:00 +0000</pubDate>
     </item>
   </channel>
